@@ -26,7 +26,6 @@ After the Deadline is available on WordPress.com as well as in libraries, plugin
     
 ### output 
 
-[out1]
 >>> 
 =================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
 Enter the text here:     Politics (from Greek: πολιτικά, translit. Politiká, meaning "affairs of the cities") refers to a set of activities associated with the governance of a country, or an area. It involves making decisions that apply to members of a group.[1]It refers to achieving and exercising positions of governance—organized control over a human community, particularly a state.[2] The academic study focusing on just politics, which is therefore more targeted than general political science, is sometimes referred to as politology (not to be confused with politicology, a synonym of political science).
