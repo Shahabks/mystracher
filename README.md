@@ -1,6 +1,8 @@
 # mystracher
 ### A structure / Grammar checker of English - Built on AtD, After the Deadline for Python 3.7
 
+## Ver 2 scoring bug fixed
+
 This library is a language checker for English with:
 
 <ul>
@@ -176,21 +178,4 @@ jamp (Spelling)
 ===============
 Score    : 1.0
 >>> 
-
-### note 
-if you enter a grammatically correct sentence you may get an error message, it is because of the scoring algorithm which will be fixed in the coming version.
-
->>> 
-                              =================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
-#### Enter the text here:     
-#### there are five dogs
-===============
-Traceback (most recent call last):
-  File "C:/Users/shahab/Desktop/testtt.py", line 3, in <module>
-    my.mystracher()
-  File "C:\Users\shahab\Desktop\Gram\mystracher\__init__.py", line 165, in mystracher
-    print("Score    :", (-pointt)/tott)
-ZeroDivisionError: division by zero
->>> 
-
 
