@@ -144,8 +144,8 @@ def mystracher():
 
     setDefaultKey('mygra2019#shs')
     errs=checkDocument(textt)
-    pointt=0
-    tott=0
+    pointt=-1
+    tott=1
     for error in errs:
         print("string:  ", error.string)
         print("description  ", error.description)
