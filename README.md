@@ -110,12 +110,14 @@ therefore (Complex Expression)
 referred to as (Complex Expression)
 to be (Passive voice)
 ===============
-Score    : 0.6
+### Score    : 0.6
 
 [out2]
 >>> 
-=================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
-Enter the text here:     helllo i are der and i has go here
+                        =================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
+#### Enter the text here:     
+#### helllo i are der and i has go here
+
 string:   helllo
 description   Spelling
 type    spelling
@@ -149,10 +151,12 @@ i (Make I uppercase)
 i (Make I uppercase)
 has go (Auxiliary Verb Agreement)
 ===============
-Score    : 0.25
+### Score    : 0.25
 >>> 
-=================== RESTART: C:/Users/ta/Desktop/testtt.py ===================
-Enter the text here:     jamp in the bed wid five monkey
+                                =================== RESTART: C:/Users/ta/Desktop/testtt.py ===================
+#### Enter the text here:    
+#### jamp on the bed with five dogs
+
 string:   jamp
 description   Spelling
 type    spelling
@@ -177,8 +181,9 @@ Score    : 1.0
 if you enter a grammatically correct sentence you may get an error message, it is because of the scoring algorithm which will be fixed in the coming version.
 
 >>> 
-=================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
-Enter the text here:     there are five dogs
+                              =================== RESTART: C:/Users/shahab/Desktop/testtt.py ===================
+#### Enter the text here:     
+#### there are five dogs
 ===============
 Traceback (most recent call last):
   File "C:/Users/shahab/Desktop/testtt.py", line 3, in <module>
