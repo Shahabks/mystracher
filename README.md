@@ -14,7 +14,7 @@ This library was built for Python 3.7. It uses artificial intelligence and natur
 AtD model is a bit old though enough for the purpose of checking grammar. 
 
 After the Deadline is available on WordPress.com as well as in libraries, plugins, add-ons, and extensions for a variety of platforms. See the Download or Developers page for more information on extensions and libraries.
-
+#### Build on work done by Miguel Ventura, thanks
 ### Installation 
             pip install mystracher
             
